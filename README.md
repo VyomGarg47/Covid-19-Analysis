@@ -1,5 +1,5 @@
 # Covid-19-Analysis
-Simulate a Model to predict COVID-19 outbreak using Machine Learning
+Used polynomial regression to predict and forecast number of cases (confirmed as well as recovered) using existing COVID-19 dataset. Plotted various graphs, and analyzed how the virus is spreading across India.
 
  Source for Dataset:
     <br>
